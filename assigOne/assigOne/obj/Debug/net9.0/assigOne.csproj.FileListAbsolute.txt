@@ -1,0 +1,14 @@
+J:\course .net\C#\Session03\solution\assigOne\assigOne\bin\Debug\net9.0\assigOne.exe
+J:\course .net\C#\Session03\solution\assigOne\assigOne\bin\Debug\net9.0\assigOne.deps.json
+J:\course .net\C#\Session03\solution\assigOne\assigOne\bin\Debug\net9.0\assigOne.runtimeconfig.json
+J:\course .net\C#\Session03\solution\assigOne\assigOne\bin\Debug\net9.0\assigOne.dll
+J:\course .net\C#\Session03\solution\assigOne\assigOne\bin\Debug\net9.0\assigOne.pdb
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\assigOne.GeneratedMSBuildEditorConfig.editorconfig
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\assigOne.AssemblyInfoInputs.cache
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\assigOne.AssemblyInfo.cs
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\assigOne.csproj.CoreCompileInputs.cache
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\assigOne.dll
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\refint\assigOne.dll
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\assigOne.pdb
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\assigOne.genruntimeconfig.cache
+J:\course .net\C#\Session03\solution\assigOne\assigOne\obj\Debug\net9.0\ref\assigOne.dll
