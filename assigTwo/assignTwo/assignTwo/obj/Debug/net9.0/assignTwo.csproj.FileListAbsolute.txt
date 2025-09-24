@@ -1,0 +1,14 @@
+J:\course .net\C#\Assignment\assignTwo\assignTwo\bin\Debug\net9.0\assignTwo.exe
+J:\course .net\C#\Assignment\assignTwo\assignTwo\bin\Debug\net9.0\assignTwo.deps.json
+J:\course .net\C#\Assignment\assignTwo\assignTwo\bin\Debug\net9.0\assignTwo.runtimeconfig.json
+J:\course .net\C#\Assignment\assignTwo\assignTwo\bin\Debug\net9.0\assignTwo.dll
+J:\course .net\C#\Assignment\assignTwo\assignTwo\bin\Debug\net9.0\assignTwo.pdb
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\assignTwo.GeneratedMSBuildEditorConfig.editorconfig
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\assignTwo.AssemblyInfoInputs.cache
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\assignTwo.AssemblyInfo.cs
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\assignTwo.csproj.CoreCompileInputs.cache
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\assignTwo.dll
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\refint\assignTwo.dll
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\assignTwo.pdb
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\assignTwo.genruntimeconfig.cache
+J:\course .net\C#\Assignment\assignTwo\assignTwo\obj\Debug\net9.0\ref\assignTwo.dll
