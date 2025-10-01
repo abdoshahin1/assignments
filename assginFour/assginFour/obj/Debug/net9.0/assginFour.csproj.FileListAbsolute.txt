@@ -1,0 +1,15 @@
+J:\course .net\C#\assignOne\assginFour\assginFour\bin\Debug\net9.0\assginFour.exe
+J:\course .net\C#\assignOne\assginFour\assginFour\bin\Debug\net9.0\assginFour.deps.json
+J:\course .net\C#\assignOne\assginFour\assginFour\bin\Debug\net9.0\assginFour.runtimeconfig.json
+J:\course .net\C#\assignOne\assginFour\assginFour\bin\Debug\net9.0\assginFour.dll
+J:\course .net\C#\assignOne\assginFour\assginFour\bin\Debug\net9.0\assginFour.pdb
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.GeneratedMSBuildEditorConfig.editorconfig
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.AssemblyInfoInputs.cache
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.AssemblyInfo.cs
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.csproj.CoreCompileInputs.cache
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.sourcelink.json
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.dll
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\refint\assginFour.dll
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.pdb
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\assginFour.genruntimeconfig.cache
+J:\course .net\C#\assignOne\assginFour\assginFour\obj\Debug\net9.0\ref\assginFour.dll
