@@ -1,0 +1,15 @@
+J:\course .net\C#\assignOne\assignFive\assignFive\bin\Debug\net9.0\assignFive.exe
+J:\course .net\C#\assignOne\assignFive\assignFive\bin\Debug\net9.0\assignFive.deps.json
+J:\course .net\C#\assignOne\assignFive\assignFive\bin\Debug\net9.0\assignFive.runtimeconfig.json
+J:\course .net\C#\assignOne\assignFive\assignFive\bin\Debug\net9.0\assignFive.dll
+J:\course .net\C#\assignOne\assignFive\assignFive\bin\Debug\net9.0\assignFive.pdb
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.GeneratedMSBuildEditorConfig.editorconfig
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.AssemblyInfoInputs.cache
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.AssemblyInfo.cs
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.csproj.CoreCompileInputs.cache
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.sourcelink.json
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.dll
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\refint\assignFive.dll
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.pdb
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\assignFive.genruntimeconfig.cache
+J:\course .net\C#\assignOne\assignFive\assignFive\obj\Debug\net9.0\ref\assignFive.dll
