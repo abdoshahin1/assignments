@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\course .net\\C#\\assignments\\assignSix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415ECE9A-8C08-4DAA-9146-9A17021029AD}|assignSix\\assignSix.csproj|j:\\course .net\\c#\\assignments\\assignsix\\assignsix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415ECE9A-8C08-4DAA-9146-9A17021029AD}|assignSix\\assignSix.csproj|solutionrelative:assignsix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415ECE9A-8C08-4DAA-9146-9A17021029AD}|assignSix\\assignSix.csproj|j:\\course .net\\c#\\assignments\\assignsix\\assignsix\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415ECE9A-8C08-4DAA-9146-9A17021029AD}|assignSix\\assignSix.csproj|solutionrelative:assignsix\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "J:\\course .net\\C#\\assignments\\assignSix\\assignSix\\Duration.cs",
+              "RelativeDocumentMoniker": "assignSix\\Duration.cs",
+              "ToolTip": "J:\\course .net\\C#\\assignments\\assignSix\\assignSix\\Duration.cs",
+              "RelativeToolTip": "assignSix\\Duration.cs",
+              "ViewState": "AgIAAEIAAABAMzMzMzMvwGAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:03:11.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\course .net\\C#\\assignments\\assignSix\\assignSix\\Program.cs",
+              "RelativeDocumentMoniker": "assignSix\\Program.cs",
+              "ToolTip": "J:\\course .net\\C#\\assignments\\assignSix\\assignSix\\Program.cs",
+              "RelativeToolTip": "assignSix\\Program.cs",
+              "ViewState": "AgIAAAIAAACwZmZmZmYWwFsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T09:28:05.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

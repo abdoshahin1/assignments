@@ -1,0 +1,15 @@
+J:\course .net\C#\assignments\assignSix\assignSix\bin\Debug\net9.0\assignSix.exe
+J:\course .net\C#\assignments\assignSix\assignSix\bin\Debug\net9.0\assignSix.deps.json
+J:\course .net\C#\assignments\assignSix\assignSix\bin\Debug\net9.0\assignSix.runtimeconfig.json
+J:\course .net\C#\assignments\assignSix\assignSix\bin\Debug\net9.0\assignSix.dll
+J:\course .net\C#\assignments\assignSix\assignSix\bin\Debug\net9.0\assignSix.pdb
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.GeneratedMSBuildEditorConfig.editorconfig
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.AssemblyInfoInputs.cache
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.AssemblyInfo.cs
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.csproj.CoreCompileInputs.cache
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.sourcelink.json
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.dll
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\refint\assignSix.dll
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.pdb
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\assignSix.genruntimeconfig.cache
+J:\course .net\C#\assignments\assignSix\assignSix\obj\Debug\net9.0\ref\assignSix.dll
