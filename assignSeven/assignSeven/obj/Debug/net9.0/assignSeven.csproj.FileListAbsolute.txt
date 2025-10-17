@@ -1,0 +1,29 @@
+C:\Users\shahin\source\repos\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.exe
+C:\Users\shahin\source\repos\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.deps.json
+C:\Users\shahin\source\repos\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.runtimeconfig.json
+C:\Users\shahin\source\repos\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.dll
+C:\Users\shahin\source\repos\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.pdb
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.AssemblyInfoInputs.cache
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.AssemblyInfo.cs
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.csproj.CoreCompileInputs.cache
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.dll
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\refint\assignSeven.dll
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.pdb
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.genruntimeconfig.cache
+C:\Users\shahin\source\repos\assignSeven\assignSeven\obj\Debug\net9.0\ref\assignSeven.dll
+D:\course .net\C#\assignments\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.exe
+D:\course .net\C#\assignments\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.deps.json
+D:\course .net\C#\assignments\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.runtimeconfig.json
+D:\course .net\C#\assignments\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.dll
+D:\course .net\C#\assignments\assignSeven\assignSeven\bin\Debug\net9.0\assignSeven.pdb
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.GeneratedMSBuildEditorConfig.editorconfig
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.AssemblyInfoInputs.cache
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.AssemblyInfo.cs
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.csproj.CoreCompileInputs.cache
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.sourcelink.json
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.dll
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\refint\assignSeven.dll
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.pdb
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\assignSeven.genruntimeconfig.cache
+D:\course .net\C#\assignments\assignSeven\assignSeven\obj\Debug\net9.0\ref\assignSeven.dll
