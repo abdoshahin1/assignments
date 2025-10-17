@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\course .net\\C#\\assignments\\assignEight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\regularuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\regularuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\premiumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\premiumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\guestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\guestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\buyonegetonediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\buyonegetonediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\flatdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\flatdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|d:\\course .net\\c#\\assignments\\assigneight\\assigneight\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66590496-3C63-4C14-A220-E15BF20C948E}|assignEight\\assignEight.csproj|solutionrelative:assigneight\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuestUser.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\GuestUser.cs",
+              "RelativeDocumentMoniker": "assignEight\\GuestUser.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\GuestUser.cs",
+              "RelativeToolTip": "assignEight\\GuestUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:09:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PremiumUser.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\PremiumUser.cs",
+              "RelativeDocumentMoniker": "assignEight\\PremiumUser.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\PremiumUser.cs",
+              "RelativeToolTip": "assignEight\\PremiumUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:09:14.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegularUser.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\RegularUser.cs",
+              "RelativeDocumentMoniker": "assignEight\\RegularUser.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\RegularUser.cs",
+              "RelativeToolTip": "assignEight\\RegularUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:09:01.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\User.cs",
+              "RelativeDocumentMoniker": "assignEight\\User.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\User.cs",
+              "RelativeToolTip": "assignEight\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:08:07.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuyOneGetOneDiscount.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\BuyOneGetOneDiscount.cs",
+              "RelativeDocumentMoniker": "assignEight\\BuyOneGetOneDiscount.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\BuyOneGetOneDiscount.cs",
+              "RelativeToolTip": "assignEight\\BuyOneGetOneDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:04:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlatDiscount.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\FlatDiscount.cs",
+              "RelativeDocumentMoniker": "assignEight\\FlatDiscount.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\FlatDiscount.cs",
+              "RelativeToolTip": "assignEight\\FlatDiscount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:04:02.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PercentageDiscount.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\PercentageDiscount.cs",
+              "RelativeDocumentMoniker": "assignEight\\PercentageDiscount.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\PercentageDiscount.cs",
+              "RelativeToolTip": "assignEight\\PercentageDiscount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:01:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\Discount.cs",
+              "RelativeDocumentMoniker": "assignEight\\Discount.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\Discount.cs",
+              "RelativeToolTip": "assignEight\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:58:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\Maths.cs",
+              "RelativeDocumentMoniker": "assignEight\\Maths.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\Maths.cs",
+              "RelativeToolTip": "assignEight\\Maths.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:18:06.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\Program.cs",
+              "RelativeDocumentMoniker": "assignEight\\Program.cs",
+              "ToolTip": "D:\\course .net\\C#\\assignments\\assignEight\\assignEight\\Program.cs",
+              "RelativeToolTip": "assignEight\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:52:00.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\course .net\C#\assignments\assignEight\assignEight\bin\Debug\net9.0\assignEight.exe
+D:\course .net\C#\assignments\assignEight\assignEight\bin\Debug\net9.0\assignEight.deps.json
+D:\course .net\C#\assignments\assignEight\assignEight\bin\Debug\net9.0\assignEight.runtimeconfig.json
+D:\course .net\C#\assignments\assignEight\assignEight\bin\Debug\net9.0\assignEight.dll
+D:\course .net\C#\assignments\assignEight\assignEight\bin\Debug\net9.0\assignEight.pdb
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.GeneratedMSBuildEditorConfig.editorconfig
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.AssemblyInfoInputs.cache
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.AssemblyInfo.cs
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.csproj.CoreCompileInputs.cache
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.sourcelink.json
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.dll
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\refint\assignEight.dll
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.pdb
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\assignEight.genruntimeconfig.cache
+D:\course .net\C#\assignments\assignEight\assignEight\obj\Debug\net9.0\ref\assignEight.dll
